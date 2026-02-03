@@ -1,0 +1,8 @@
+Product Analysis
+===============
+
+The purpose of our product is to help people remember to take their medication and also to warn them when their medication is about to expire. This is especially helpful for the elderly and their caregivers.
+
+Several features of the application are large buttons and bright colors for better accessibility for our elderly users. We also offer an opportunity for the users to get feedback in the form of a survey and also by allowing users to rate the application online with up to five stars.
+
+Our product is the Smart Medication Tracker.
